@@ -22,6 +22,10 @@ Unlike traditional PPE compliance systems, this project reduces **false alarms**
 - 🕒 Auto-analyzes every **5 seconds**
 - 🧾 Stores latest alerts (up to 10)
 
+## Demo Video
+[Click here to watch the demo video](https://drive.google.com/file/d/19FF663XlM6x36gQQSwaFjS6LHKUga2tk/view?usp=sharing)
+
+
 ## ⚙️ Setup & Installation
 
 ### 1) Clone the repository

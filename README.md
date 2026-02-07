@@ -9,7 +9,7 @@ Unlike traditional PPE detection systems that raise alerts for every missing hel
 ## 🚀 Features
 
 - 📷 Live camera / video monitoring
-- 🧠 Local AI detection (no external APIs)
+- 🧠 Local AI detection
 - 🦺 Detects:
   - Person
   - Helmet
@@ -22,7 +22,7 @@ Unlike traditional PPE detection systems that raise alerts for every missing hel
   - Ignore → Safe zone
 - ⚡ Real-time processing
 - 🧾 On-screen violation messages
-- 💻 Fully offline (no API keys required)
+- 💻 Fully offline
 
 ---
 

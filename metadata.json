@@ -1,0 +1,8 @@
+
+{
+  "name": "ContextAware Safety Gear Compliance",
+  "description": "A computer vision system that reasons about context to decide when safety gear violations matter, reducing false alarms in safe zones.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
